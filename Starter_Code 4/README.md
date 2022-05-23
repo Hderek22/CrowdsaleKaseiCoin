@@ -1,6 +1,6 @@
 # Application
 
-## Challenge: Martian Token Crowdsale
+## Martian Token Crowdsale
 
 You will create a fungible token that is ERC-20 compliant and that will be minted by using a `Crowdsale` contract from the OpenZeppelin Solidity library.
 
